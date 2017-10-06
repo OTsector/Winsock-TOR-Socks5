@@ -1,6 +1,7 @@
 
 #pragma comment(lib, "wininet.lib")
 #include <windows.h> 
+#include <winsock2.h>
 int main(){
 
 
